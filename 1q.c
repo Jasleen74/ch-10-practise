@@ -1,3 +1,4 @@
+/*1. Write a program to read three integers from a file.*/
 #include<stdio.h>
 int main() {
      FILE *ptr;
